@@ -1,0 +1,10 @@
+exec_prefix=/sbin
+libdir=/lib
+includedir=/usr/include
+
+Name: apk
+Description: Alpine Package Manager
+Version: 2.14.0
+Requires: zlib openssl
+Libs: -L${libdir} -lapk
+Cflags: -I${includedir}

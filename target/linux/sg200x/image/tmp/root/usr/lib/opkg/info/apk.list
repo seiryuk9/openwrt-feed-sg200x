@@ -1,0 +1,7 @@
+/usr/lib/pkgconfig/apk.pc
+/usr/lib/libapk.so
+/usr/lib/libapk.so.2.14.0
+/usr/lib/libapk.a
+/etc/apk/world
+/etc/apk/arch
+/bin/apk

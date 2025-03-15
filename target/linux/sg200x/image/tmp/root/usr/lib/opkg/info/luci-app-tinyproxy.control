@@ -1,0 +1,11 @@
+Package: luci-app-tinyproxy
+Version: git-23.339.12977-cb55c0a
+Depends: libc, luci-compat, tinyproxy, luci-lua-runtime
+Source: feeds/luci/applications/luci-app-tinyproxy
+SourceName: luci-app-tinyproxy
+Section: luci
+SourceDateEpoch: 1726769787
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3426
+Description:  Tinyproxy - HTTP(S)-Proxy configuration

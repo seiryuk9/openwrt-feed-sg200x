@@ -1,0 +1,13 @@
+Package: libzstd
+Version: 1.5.2-2
+Depends: libc
+Source: feeds/packages/utils/zstd
+SourceName: libzstd
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1682110018
+Architecture: riscv64_riscv64
+Installed-Size: 282536
+Description:  Zstandard - Fast real-time compression algorithm.
+ This package provides libzstd library.
